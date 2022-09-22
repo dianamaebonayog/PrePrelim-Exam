@@ -1,0 +1,8 @@
+C:\Users\VGD pc 2\Desktop\diana\BonayogDianaMaePrelimExam\BonayogDianaMaePrelimExam\obj\Debug\net6.0\BonayogDianaMaePrelimExam.csproj.AssemblyReference.cache
+C:\Users\VGD pc 2\Desktop\diana\BonayogDianaMaePrelimExam\BonayogDianaMaePrelimExam\obj\Debug\net6.0\BonayogDianaMaePrelimExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VGD pc 2\Desktop\diana\BonayogDianaMaePrelimExam\BonayogDianaMaePrelimExam\obj\Debug\net6.0\BonayogDianaMaePrelimExam.AssemblyInfoInputs.cache
+C:\Users\VGD pc 2\Desktop\diana\BonayogDianaMaePrelimExam\BonayogDianaMaePrelimExam\obj\Debug\net6.0\BonayogDianaMaePrelimExam.AssemblyInfo.cs
+C:\Users\VGD pc 2\Desktop\diana\BonayogDianaMaePrelimExam\BonayogDianaMaePrelimExam\obj\Debug\net6.0\BonayogDianaMaePrelimExam.csproj.CoreCompileInputs.cache
+C:\Users\VGD pc 2\Desktop\diana\BonayogDianaMaePrelimExam\BonayogDianaMaePrelimExam\obj\Debug\net6.0\BonayogDianaMaePrelimExam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VGD pc 2\Desktop\diana\BonayogDianaMaePrelimExam\BonayogDianaMaePrelimExam\obj\Debug\net6.0\BonayogDianaMaePrelimExam.RazorAssemblyInfo.cache
+C:\Users\VGD pc 2\Desktop\diana\BonayogDianaMaePrelimExam\BonayogDianaMaePrelimExam\obj\Debug\net6.0\BonayogDianaMaePrelimExam.RazorAssemblyInfo.cs
